@@ -28,7 +28,7 @@
 </ul>
 <p>I chose not to do a separate header component but it could be done.  In fact, you could have the header component include some of the score details.</p>
 
-<h2>The clickster can be found on Heroku <a href='https://clicky-clickster.herokuapp.com/'>here</a></h2>
+<h2>The clickster can be found on Heroku <a href='https://aqueous-mesa-48729.herokuapp.com/'>here</a></h2>
 
 
 <footer>The Clickster Designer and Programmer: Scott Bender</footer>
